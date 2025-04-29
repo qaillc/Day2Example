@@ -1,1 +1,2 @@
 This is file2 in folder2
+Line2 for file 2
